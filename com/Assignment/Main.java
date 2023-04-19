@@ -16,6 +16,7 @@ public class Main {
         emp.id = 104;
         emp.salary = 400000;
 
+        System.out.println("Employee details :");
         System.out.println("Salary : " + emp.id);
         System.out.println("Name : " + emp.name);
         System.out.println("Age : " + emp.age);

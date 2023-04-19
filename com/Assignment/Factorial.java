@@ -12,6 +12,6 @@ public class Factorial {
     public static void main(String[] args) {
         Factorial object = new Factorial();
         int factorial = object.getFactorial(8);
-        System.out.println("Factorial is : " + factorial);
+        System.out.println("Factorial of 8 is : " + factorial);
     }
 }

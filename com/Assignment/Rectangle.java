@@ -23,7 +23,7 @@ public class Rectangle {
 
         float area = rectangle.area(22.3f, 18.9f);
         float perimeter = rectangle.perimeter(22.3f,18.9f);
-        System.out.println(area);
-        System.out.println(perimeter);
+        System.out.println("Area of rectangle - " + area);
+        System.out.println("Perimeter of rectangle - " + perimeter);
     }
 }

@@ -16,6 +16,7 @@ public class Result extends Exam implements Sports{
 
     public static void main(String[] args) {
         Result result = new Result();
+        System.out.println("Details of student :");
         result.displayInfo();
     }
 }
